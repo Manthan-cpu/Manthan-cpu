@@ -9,7 +9,7 @@
 ## 🛠️ Skills
 - **Languages:** Verilog, C++, Python (beginner)  
 - **Domains:** Digital Logic, Pipelining, FPGA, DSA, CP  
-- **Tools:** Vivado, LTSpice, GitHub
+- **Tools:** Vivado, LTSpice, GitHub, VS Code
 
 ## 🚧 Current Projects
 - 🧮 8-bit Pipelined Microprocessor with Custom ISA  
