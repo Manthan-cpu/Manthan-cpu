@@ -24,7 +24,6 @@
 
 ## 📫 Contact
 - 📧 Email: ee240002036@iiti.ac.in
-- 🌐 GitHub: https://github.com/Manthan-cpu
 - 💼 LinkedIn: https://www.linkedin.com/in/manthan-gupta-88164a32a/
 
 ---
