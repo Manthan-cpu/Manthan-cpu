@@ -7,7 +7,7 @@
 - 🐍 Learning Python to automate and enhance my workflow
 
 ## 🛠️ Skills
-- **Languages:** Verilog, C++, Python (beginner)  
+- **Languages:** Verilog, C++, Python  
 - **Domains:** Digital Logic, Pipelining, FPGA, DSA, CP  
 - **Tools:** Vivado, LTSpice, GitHub, VS Code
 
