@@ -11,9 +11,8 @@
 - **Domains:** Digital Logic, Pipelining, FPGA, DSA, CP  
 - **Tools:** Vivado, LTSpice, GitHub, VS Code
 
-## 🚧 Current Projects
+## 🚧 Current Project
 - 🧮 8-bit Pipelined Microprocessor with Custom ISA  
-- ❤️ ECG Signal Processing (Analog + Digital Filtering)  
 
 
 ## 🚀 Interests
