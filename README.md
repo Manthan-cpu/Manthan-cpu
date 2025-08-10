@@ -2,13 +2,12 @@
 
 - 🎓 B.Tech student at IIT Indore  
 - 💡 Passionate about VLSI, digital design, and microarchitecture 
-- 💻 Comfortable with C++ and Data Structures & Algorithms  
-- 🏁 Interested in Competitive Programming and low-level system optimization  
+- 💻 Comfortable with C++ and Data Structures & Algorithms   
 - 🐍 Learning Python to automate and enhance my workflow
 
 ## 🛠️ Skills
 - **Languages:** Verilog, C++, Python  
-- **Domains:** Digital Logic, Pipelining, FPGA, DSA, CP  
+- **Domains:** Digital Logic, Pipelining, FPGA, DSA
 - **Tools:** Vivado, LTSpice, GitHub, VS Code
 
 ## 🚧 Current Project
