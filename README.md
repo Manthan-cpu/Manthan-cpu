@@ -10,14 +10,10 @@
 - **Domains:** Digital Logic, Pipelining, FPGA, DSA
 - **Tools:** Vivado, LTSpice, GitHub, VS Code
 
-## 🚧 Current Project
-- 🧮 8-bit Pipelined Microprocessor with Custom ISA  
-
 
 ## 🚀 Interests
 - VLSI & ASIC Design  
-- CPU Microarchitecture  
-- Competitive Programming  
+- CPU Microarchitecture   
 - Hardware-Software Co-Design
 
 ## 📫 Contact
